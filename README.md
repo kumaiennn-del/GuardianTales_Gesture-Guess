@@ -14,7 +14,7 @@
 
 你可以从以下链接下载打包好的游戏文件：
 
-- [下载 Gesture Guess 游戏 v1.1]([https://github.com/your-username/your-repository/releases/download/v1.1/GestureGuessGame_v1.1.zip](https://github.com/kumaiennn-del/GuardianTales_Gesture-Guess/blob/master/GestureGuessGame_v1.1.zip))
+- [下载 Gesture Guess 游戏 v1.1](https://github.com/kumaiennn-del/GuardianTales_Gesture-Guess/blob/master/GestureGuessGame_v1.1.zip)
 
 请根据您的操作系统选择合适的版本进行下载。
 
