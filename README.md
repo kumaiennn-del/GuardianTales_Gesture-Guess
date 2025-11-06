@@ -39,8 +39,6 @@
 3. **下载项目文件**：
 将项目文件下载到本地，或者通过 Git 克隆仓库：
 
-git clone https://github.com/your-username/GestureGuessGame.git
-
 4. **运行游戏**：
 在终端或命令行中，进入项目目录并运行游戏主文件：
    ```bash
