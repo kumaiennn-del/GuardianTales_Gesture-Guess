@@ -25,22 +25,19 @@
    游戏依赖于 `pygame` 库来实现图形和音效。你可以使用以下命令安装所需的依赖：
    ```bash
    pip install pygame
-下载项目文件：
+   ```
+   
+3. **下载项目文件**：
 将项目文件下载到本地，或者通过 Git 克隆仓库：
 
-GestureGuessGame/
-│
-├── Gesture&Guess.py        # 游戏主程序
-├── game.spec               # 游戏配置文件
-├── topics.json             # 题目数据文件
-├── assets/                 # 游戏资源文件（图片、音效等）
-│   ├── button.wav
-│   ├── gameover.wav
-│   ├── gamestart.wav
-│   ├── bg.jpg
-│   └── HYPixel11pxU-2.ttf  # 字体文件
-└── README.md               # 项目说明文件
+git clone https://github.com/your-username/GestureGuessGame.git
 
+4. **运行游戏**：
+在终端或命令行中，进入项目目录并运行游戏主文件：
+   ```bash
+   python Gesture&Guess.py
+   ```
+   
 提交问题：在 GitHub 仓库的 Issues 页面中提交。
 
 提交代码：请提交 Pull Requests，我们会尽快审核和合并。
