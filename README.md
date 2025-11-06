@@ -10,6 +10,15 @@
 - **音效和背景音乐**：游戏中加入了背景音乐和音效，使游戏体验更具互动性。
 - **关卡系统**：坎公游戏内的角色和道具会在每关中随机出现。
 
+## 下载游戏
+
+你可以从以下链接下载打包好的游戏文件：
+
+- [下载 Gesture Guess 游戏 v1.0](https://github.com/your-username/your-repository/releases/download/v1.0/GestureGuessGame_v1.0.zip)
+
+请根据您的操作系统选择合适的版本进行下载。
+
+
 ## 安装与运行
 
 ### 环境要求
